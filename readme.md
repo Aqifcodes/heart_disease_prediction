@@ -14,11 +14,17 @@ The workflow includes data preprocessing, training, and generating predictions o
 ---
 
 ## Project Structure
+
 heart_disease_model/
+
 ├── heart_input_data.csv # Features used for inference
+
 ├── heart_disease_prediction.csv # Model predictions (0/1)
+
 ├── heart_ml_notebook.ipynb # Jupyter notebook with training & inference
+
 ├── .gitignore # Git ignore for artifacts
+
 └── README.md # Project description
 
 ---
